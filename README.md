@@ -1,3 +1,3 @@
-# React-BoilerplateThis is my react-boilerplate
+# React-Boilerplate
 
-## Setupnpm installnpm run buildnpm start
+## Setup npm install npm run build npm start
